@@ -25,7 +25,7 @@
 
 ![M.Gulsher's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadGulsher11&theme=dark)
+![c++,dart,python](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadGulsher11&theme=dark)
 
 
 <br>
