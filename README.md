@@ -22,7 +22,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,python,firebase,github,c++,git,postman,figma,xd&perline=5)](https://skillicons.dev)
 
-![M.Gulsher's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammad Gulsher&show_icons=true&theme=dark)
+![M.Gulsher's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadGulsher&show_icons=true&theme=dark)
 
 
 <br>
